@@ -1,0 +1,18 @@
+[
+  {
+    "package": "FixSeqMTP",
+    "oncran": true
+  },
+  {
+    "package": "MHTdiscrete",
+    "oncran": true
+  },
+  {
+    "package": "MHTmult",
+    "oncran": true
+  },
+  {
+    "package": "PPQplan",
+    "oncran": true
+  }
+]
