@@ -1,6 +1,6 @@
 [
   {
-    "package": "FixSeqMTP",
+    "package": "PPQplan",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "PPQplan",
+    "package": "FixSeqMTP",
     "oncran": true
   }
 ]
