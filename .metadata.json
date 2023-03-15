@@ -1,5 +1,9 @@
 [
   {
+    "package": "ADCT",
+    "oncran": true
+  },
+  {
     "package": "FixSeqMTP",
     "oncran": true
   },

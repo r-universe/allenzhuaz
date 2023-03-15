@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ADCT"]
+	path = ADCT
+	url = https://github.com/allenzhuaz/adct
+	shallow = true
+	registered = true
 [submodule "FixSeqMTP"]
 	path = FixSeqMTP
 	url = https://github.com/allenzhuaz/fixseqmtp
