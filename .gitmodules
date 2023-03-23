@@ -23,6 +23,16 @@
 	url = https://github.com/allenzhuaz/mhtmult
 	shallow = true
 	registered = true
+[submodule "ph2bye"]
+	path = ph2bye
+	url = https://github.com/cran/ph2bye
+	shallow = true
+	registered = true
+[submodule "ph2mult"]
+	path = ph2mult
+	url = https://github.com/cran/ph2mult
+	shallow = true
+	registered = true
 [submodule "PPQplan"]
 	path = PPQplan
 	url = https://github.com/allenzhuaz/ppqplan
