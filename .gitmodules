@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ADCT"]
 	path = ADCT
 	url = https://github.com/allenzhuaz/adct
-	shallow = true
-	registered = true
 [submodule "FixSeqMTP"]
 	path = FixSeqMTP
 	url = https://github.com/allenzhuaz/fixseqmtp
-	shallow = true
-	registered = true
 [submodule "MHTdiscrete"]
 	path = MHTdiscrete
 	url = https://github.com/allenzhuaz/mhtdiscrete
-	shallow = true
-	registered = true
 [submodule "MHTmult"]
 	path = MHTmult
 	url = https://github.com/allenzhuaz/mhtmult
-	shallow = true
-	registered = true
 [submodule "ph2bye"]
 	path = ph2bye
 	url = https://github.com/cran/ph2bye
-	shallow = true
-	registered = true
 [submodule "ph2mult"]
 	path = ph2mult
 	url = https://github.com/cran/ph2mult
-	shallow = true
-	registered = true
 [submodule "PPQplan"]
 	path = PPQplan
 	url = https://github.com/allenzhuaz/ppqplan
-	shallow = true
-	registered = true
