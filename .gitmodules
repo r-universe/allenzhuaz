@@ -14,12 +14,12 @@
 [submodule "MHTmult"]
 	path = MHTmult
 	url = https://github.com/allenzhuaz/mhtmult
+[submodule "PPQplan"]
+	path = PPQplan
+	url = https://github.com/allenzhuaz/ppqplan
 [submodule "ph2bye"]
 	path = ph2bye
 	url = https://github.com/cran/ph2bye
 [submodule "ph2mult"]
 	path = ph2mult
 	url = https://github.com/cran/ph2mult
-[submodule "PPQplan"]
-	path = PPQplan
-	url = https://github.com/allenzhuaz/ppqplan
